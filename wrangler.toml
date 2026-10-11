@@ -1,0 +1,8 @@
+name = "simple-bulletin-board"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bulletin-board-db"
+database_id = "35f9544f-5740-4671-a032-f9d355eec5af"
